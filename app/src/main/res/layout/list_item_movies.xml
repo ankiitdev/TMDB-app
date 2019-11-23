@@ -56,14 +56,26 @@
                   android:layout_alignParentRight="true"/>
 
 
+             <LinearLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="">
+
+                 <ImageView
+                     android:layout_width="20dp"
+                     android:layout_height="20dp"
+                     android:src="@drawable/ic_star_black_24dp"
+                     android:layout_marginTop="4dp"/>
              <TextView
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
                  android:text="135 minutes"
                  android:layout_marginTop="5dp"
+                 android:layout_marginLeft="4dp"
                  android:textSize="14sp"
                  android:id="@+id/movie_runtime"
                  />
+             </LinearLayout>
 
 
 
