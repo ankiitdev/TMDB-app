@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696820320463",
+    "firebase_url": "https://tmdb-api-6caca.firebaseio.com",
+    "project_id": "tmdb-api-6caca",
+    "storage_bucket": "tmdb-api-6caca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696820320463:android:945bd8f58bea6e87ac0fba",
+        "android_client_info": {
+          "package_name": "com.example.tmdbapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696820320463-okordnki9jfql5tnqmhm7807g4nog3l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXidqV7r_WLLausrqgHAJ1X6bVvwPJkq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696820320463-okordnki9jfql5tnqmhm7807g4nog3l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
